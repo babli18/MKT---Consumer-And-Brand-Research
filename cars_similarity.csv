@@ -1,0 +1,11 @@
+,"Mazda RX4","Mazda RX4 Wag","Ferrari Dino","Maserati Bora","Duster 360","Toyota Corona","Toyota Corolla","Honda Civic","Cadillac Fleetwood","Lincoln Continental"
+"Mazda RX4",0,1,2,5,4,4,4,4,5,8
+"Mazda RX4 Wag",1,0,2,5,4,6,4,4,5,8
+"Ferrari Dino",2,2,0,3,5,6,6,5,6,6
+"Maserati Bora",5,5,3,0,5,8,8,8,5,5
+"Duster 360",4,4,5,5,0,5,7,7,2,3
+"Toyota Corona",4,6,6,8,5,0,3,4,6,6
+"Toyota Corolla",4,4,6,8,7,3,0,2,8,8
+"Honda Civic",4,4,5,8,7,4,2,0,8,8
+"Cadillac Fleetwood",5,5,6,5,2,6,8,8,0,1
+"Lincoln Continental",8,8,6,5,3,6,8,8,1,0
